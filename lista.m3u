@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Canais Ao Vivo" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/br/CNNBrasil.png",CNN Brasil HD
-https://cnnbasil.bmdrn.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Filmes e Entretenimento" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/br/PlutoTV.png",Pluto TV Cine Sucessos
+https://stitcher.pluto.tv/stitcher/studio/5f514757c913530007bbf9e4/master.m3u8
 
-#EXTINF:-1 group-title="Canais Ao Vivo" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/br/TVCultura.png",TV Cultura SP HD
-https://cultura.bmdrn.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Notícias Brasil" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/br/RecordNews.png",Record News
+https://samsungtvplus.akamaized.net/stream/tizen/TIZEN_BR_RECORDNEWS/master.m3u8
 
-#EXTINF:-1 group-title="Canais Americanos" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/us/ABC.png",ABC News Live (EUA)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc2cd987b6be.m3u8
+#EXTINF:-1 group-title="Canais Americanos" tvg-logo="https://raw.githubusercontent.com/iptv-org/epg/master/logos/us/PlutoTV.png",Pluto TV Spotlight US (EUA)
+https://stitcher.pluto.tv/stitcher/studio/5d2794406ff3db6d4f40f316/master.m3u8
